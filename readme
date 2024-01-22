@@ -1,0 +1,5 @@
+Para compilar:
+    gcc nome.c -o nome.out
+
+Para rodar:
+    ./nome.out
